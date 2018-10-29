@@ -12,7 +12,7 @@ console.log(a); //=> 'This is how you can modify a string with operators!'
 
 /*Modifying a string with string methods:
 
-There are several methods which can be used to modify a string.
+There are several methods (built in functions) which can be used to modify a string.
 */
 var testStr = 'Jon Mohon';
 
